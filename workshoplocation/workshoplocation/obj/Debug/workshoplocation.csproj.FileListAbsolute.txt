@@ -1,0 +1,10 @@
+C:\Users\casse\Desktop\Projects\workshoplocation\workshoplocation\bin\Debug\workshoplocation.exe.config
+C:\Users\casse\Desktop\Projects\workshoplocation\workshoplocation\bin\Debug\workshoplocation.exe
+C:\Users\casse\Desktop\Projects\workshoplocation\workshoplocation\bin\Debug\workshoplocation.pdb
+C:\Users\casse\Desktop\Projects\workshoplocation\workshoplocation\obj\Debug\workshoplocation.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\Projects\workshoplocation\workshoplocation\obj\Debug\workshoplocation.Form1.resources
+C:\Users\casse\Desktop\Projects\workshoplocation\workshoplocation\obj\Debug\workshoplocation.Properties.Resources.resources
+C:\Users\casse\Desktop\Projects\workshoplocation\workshoplocation\obj\Debug\workshoplocation.csproj.GenerateResource.cache
+C:\Users\casse\Desktop\Projects\workshoplocation\workshoplocation\obj\Debug\workshoplocation.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\Projects\workshoplocation\workshoplocation\obj\Debug\workshoplocation.exe
+C:\Users\casse\Desktop\Projects\workshoplocation\workshoplocation\obj\Debug\workshoplocation.pdb

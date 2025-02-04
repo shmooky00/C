@@ -1,0 +1,10 @@
+C:\Users\casse\Desktop\Projects\total sales\total sales\bin\Debug\total sales.exe.config
+C:\Users\casse\Desktop\Projects\total sales\total sales\bin\Debug\total sales.exe
+C:\Users\casse\Desktop\Projects\total sales\total sales\bin\Debug\total sales.pdb
+C:\Users\casse\Desktop\Projects\total sales\total sales\obj\Debug\total sales.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\Projects\total sales\total sales\obj\Debug\total_sales.Form1.resources
+C:\Users\casse\Desktop\Projects\total sales\total sales\obj\Debug\total_sales.Properties.Resources.resources
+C:\Users\casse\Desktop\Projects\total sales\total sales\obj\Debug\total sales.csproj.GenerateResource.cache
+C:\Users\casse\Desktop\Projects\total sales\total sales\obj\Debug\total sales.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\Projects\total sales\total sales\obj\Debug\total sales.exe
+C:\Users\casse\Desktop\Projects\total sales\total sales\obj\Debug\total sales.pdb
