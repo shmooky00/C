@@ -1,0 +1,43 @@
+D:\GenevaCode\csc102\recursion\bin\Debug\net6.0\recursion.exe
+D:\GenevaCode\csc102\recursion\bin\Debug\net6.0\recursion.deps.json
+D:\GenevaCode\csc102\recursion\bin\Debug\net6.0\recursion.runtimeconfig.json
+D:\GenevaCode\csc102\recursion\bin\Debug\net6.0\recursion.dll
+D:\GenevaCode\csc102\recursion\bin\Debug\net6.0\recursion.pdb
+D:\GenevaCode\csc102\recursion\obj\Debug\net6.0\recursion.csproj.AssemblyReference.cache
+D:\GenevaCode\csc102\recursion\obj\Debug\net6.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+D:\GenevaCode\csc102\recursion\obj\Debug\net6.0\recursion.AssemblyInfoInputs.cache
+D:\GenevaCode\csc102\recursion\obj\Debug\net6.0\recursion.AssemblyInfo.cs
+D:\GenevaCode\csc102\recursion\obj\Debug\net6.0\recursion.csproj.CoreCompileInputs.cache
+D:\GenevaCode\csc102\recursion\obj\Debug\net6.0\recursion.dll
+D:\GenevaCode\csc102\recursion\obj\Debug\net6.0\refint\recursion.dll
+D:\GenevaCode\csc102\recursion\obj\Debug\net6.0\recursion.pdb
+D:\GenevaCode\csc102\recursion\obj\Debug\net6.0\recursion.genruntimeconfig.cache
+D:\GenevaCode\csc102\recursion\obj\Debug\net6.0\ref\recursion.dll
+X:\recursion\bin\Debug\net6.0\recursion.exe
+X:\recursion\bin\Debug\net6.0\recursion.deps.json
+X:\recursion\bin\Debug\net6.0\recursion.runtimeconfig.json
+X:\recursion\bin\Debug\net6.0\recursion.dll
+X:\recursion\bin\Debug\net6.0\recursion.pdb
+X:\recursion\obj\Debug\net6.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+X:\recursion\obj\Debug\net6.0\recursion.AssemblyInfoInputs.cache
+X:\recursion\obj\Debug\net6.0\recursion.AssemblyInfo.cs
+X:\recursion\obj\Debug\net6.0\recursion.csproj.CoreCompileInputs.cache
+X:\recursion\obj\Debug\net6.0\recursion.dll
+X:\recursion\obj\Debug\net6.0\refint\recursion.dll
+X:\recursion\obj\Debug\net6.0\recursion.pdb
+X:\recursion\obj\Debug\net6.0\recursion.genruntimeconfig.cache
+X:\recursion\obj\Debug\net6.0\ref\recursion.dll
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\bin\Debug\net6.0\recursion.exe
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\bin\Debug\net6.0\recursion.deps.json
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\bin\Debug\net6.0\recursion.runtimeconfig.json
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\bin\Debug\net6.0\recursion.dll
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\bin\Debug\net6.0\recursion.pdb
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\obj\Debug\net6.0\recursion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\obj\Debug\net6.0\recursion.AssemblyInfoInputs.cache
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\obj\Debug\net6.0\recursion.AssemblyInfo.cs
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\obj\Debug\net6.0\recursion.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\obj\Debug\net6.0\recursion.dll
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\obj\Debug\net6.0\refint\recursion.dll
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\obj\Debug\net6.0\recursion.pdb
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\obj\Debug\net6.0\recursion.genruntimeconfig.cache
+C:\Users\casse\Desktop\Obj Oriented Programs\recursion\recursion\obj\Debug\net6.0\ref\recursion.dll
