@@ -1,0 +1,7 @@
+C:\GenevaCode\CSC 102\static class\static class\obj\Debug\static class.csproj.AssemblyReference.cache
+C:\GenevaCode\CSC 102\static class\static class\obj\Debug\static class.csproj.CoreCompileInputs.cache
+C:\GenevaCode\CSC 102\static class\static class\bin\Debug\static class.exe.config
+C:\GenevaCode\CSC 102\static class\static class\bin\Debug\static class.exe
+C:\GenevaCode\CSC 102\static class\static class\bin\Debug\static class.pdb
+C:\GenevaCode\CSC 102\static class\static class\obj\Debug\static class.exe
+C:\GenevaCode\CSC 102\static class\static class\obj\Debug\static class.pdb
