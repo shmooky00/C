@@ -1,0 +1,10 @@
+C:\GenevaCode\CSC 102\wordle app final project\wordle app final project\bin\Debug\wordle app final project.exe.config
+C:\GenevaCode\CSC 102\wordle app final project\wordle app final project\bin\Debug\wordle app final project.exe
+C:\GenevaCode\CSC 102\wordle app final project\wordle app final project\bin\Debug\wordle app final project.pdb
+C:\GenevaCode\CSC 102\wordle app final project\wordle app final project\obj\Debug\wordle app final project.csproj.AssemblyReference.cache
+C:\GenevaCode\CSC 102\wordle app final project\wordle app final project\obj\Debug\wordle_app_final_project.Form1.resources
+C:\GenevaCode\CSC 102\wordle app final project\wordle app final project\obj\Debug\wordle_app_final_project.Properties.Resources.resources
+C:\GenevaCode\CSC 102\wordle app final project\wordle app final project\obj\Debug\wordle app final project.csproj.GenerateResource.cache
+C:\GenevaCode\CSC 102\wordle app final project\wordle app final project\obj\Debug\wordle app final project.csproj.CoreCompileInputs.cache
+C:\GenevaCode\CSC 102\wordle app final project\wordle app final project\obj\Debug\wordle app final project.exe
+C:\GenevaCode\CSC 102\wordle app final project\wordle app final project\obj\Debug\wordle app final project.pdb
