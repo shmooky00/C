@@ -1,0 +1,7 @@
+C:\Users\casse\Desktop\AlgorithmPrograms\IsBalanced Function\IsBalanced Function\bin\Debug\IsBalanced Function.exe.config
+C:\Users\casse\Desktop\AlgorithmPrograms\IsBalanced Function\IsBalanced Function\bin\Debug\IsBalanced Function.exe
+C:\Users\casse\Desktop\AlgorithmPrograms\IsBalanced Function\IsBalanced Function\bin\Debug\IsBalanced Function.pdb
+C:\Users\casse\Desktop\AlgorithmPrograms\IsBalanced Function\IsBalanced Function\obj\Debug\IsBalanced Function.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\AlgorithmPrograms\IsBalanced Function\IsBalanced Function\obj\Debug\IsBalanced Function.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\AlgorithmPrograms\IsBalanced Function\IsBalanced Function\obj\Debug\IsBalanced Function.exe
+C:\Users\casse\Desktop\AlgorithmPrograms\IsBalanced Function\IsBalanced Function\obj\Debug\IsBalanced Function.pdb
