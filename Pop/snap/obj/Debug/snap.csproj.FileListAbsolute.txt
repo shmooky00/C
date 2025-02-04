@@ -1,0 +1,7 @@
+C:\Users\casse\Desktop\AlgorithmPrograms\snap\snap\bin\Debug\snap.exe.config
+C:\Users\casse\Desktop\AlgorithmPrograms\snap\snap\bin\Debug\snap.exe
+C:\Users\casse\Desktop\AlgorithmPrograms\snap\snap\bin\Debug\snap.pdb
+C:\Users\casse\Desktop\AlgorithmPrograms\snap\snap\obj\Debug\snap.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\AlgorithmPrograms\snap\snap\obj\Debug\snap.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\AlgorithmPrograms\snap\snap\obj\Debug\snap.exe
+C:\Users\casse\Desktop\AlgorithmPrograms\snap\snap\obj\Debug\snap.pdb
