@@ -1,0 +1,14 @@
+C:\Users\casse\Desktop\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\obj\Debug\russiandoll type thing.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\obj\Debug\russiandoll type thing.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\bin\Debug\russiandoll type thing.exe.config
+C:\Users\casse\Desktop\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\bin\Debug\russiandoll type thing.exe
+C:\Users\casse\Desktop\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\bin\Debug\russiandoll type thing.pdb
+C:\Users\casse\Desktop\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\obj\Debug\russiandoll type thing.exe
+C:\Users\casse\Desktop\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\obj\Debug\russiandoll type thing.pdb
+C:\Users\casse\Desktop\CSC204 Algorithms\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\bin\Debug\russiandoll type thing.exe.config
+C:\Users\casse\Desktop\CSC204 Algorithms\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\bin\Debug\russiandoll type thing.exe
+C:\Users\casse\Desktop\CSC204 Algorithms\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\bin\Debug\russiandoll type thing.pdb
+C:\Users\casse\Desktop\CSC204 Algorithms\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\obj\Debug\russiandoll type thing.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\CSC204 Algorithms\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\obj\Debug\russiandoll type thing.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\CSC204 Algorithms\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\obj\Debug\russiandoll type thing.exe
+C:\Users\casse\Desktop\CSC204 Algorithms\AlgorithmPrograms\russiandoll type thing\russiandoll type thing\obj\Debug\russiandoll type thing.pdb
