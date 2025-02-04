@@ -1,0 +1,7 @@
+C:\GenevaCode\CSC 102\feelt vessel\feelt vessel\bin\Debug\feelt vessel.exe.config
+C:\GenevaCode\CSC 102\feelt vessel\feelt vessel\bin\Debug\feelt vessel.exe
+C:\GenevaCode\CSC 102\feelt vessel\feelt vessel\bin\Debug\feelt vessel.pdb
+C:\GenevaCode\CSC 102\feelt vessel\feelt vessel\obj\Debug\feelt vessel.csproj.AssemblyReference.cache
+C:\GenevaCode\CSC 102\feelt vessel\feelt vessel\obj\Debug\feelt vessel.csproj.CoreCompileInputs.cache
+C:\GenevaCode\CSC 102\feelt vessel\feelt vessel\obj\Debug\feelt vessel.exe
+C:\GenevaCode\CSC 102\feelt vessel\feelt vessel\obj\Debug\feelt vessel.pdb
