@@ -1,0 +1,10 @@
+C:\GenevaCode\CSC 102\prime number\prime number\bin\Debug\prime number.exe.config
+C:\GenevaCode\CSC 102\prime number\prime number\bin\Debug\prime number.exe
+C:\GenevaCode\CSC 102\prime number\prime number\bin\Debug\prime number.pdb
+C:\GenevaCode\CSC 102\prime number\prime number\obj\Debug\prime number.csproj.AssemblyReference.cache
+C:\GenevaCode\CSC 102\prime number\prime number\obj\Debug\prime_number.Form1.resources
+C:\GenevaCode\CSC 102\prime number\prime number\obj\Debug\prime_number.Properties.Resources.resources
+C:\GenevaCode\CSC 102\prime number\prime number\obj\Debug\prime number.csproj.GenerateResource.cache
+C:\GenevaCode\CSC 102\prime number\prime number\obj\Debug\prime number.csproj.CoreCompileInputs.cache
+C:\GenevaCode\CSC 102\prime number\prime number\obj\Debug\prime number.exe
+C:\GenevaCode\CSC 102\prime number\prime number\obj\Debug\prime number.pdb

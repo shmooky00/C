@@ -1,0 +1,7 @@
+C:\GenevaCode\CSC 102\powersinterface\powersinterface\bin\Debug\powersinterface.exe.config
+C:\GenevaCode\CSC 102\powersinterface\powersinterface\bin\Debug\powersinterface.exe
+C:\GenevaCode\CSC 102\powersinterface\powersinterface\bin\Debug\powersinterface.pdb
+C:\GenevaCode\CSC 102\powersinterface\powersinterface\obj\Debug\powersinterface.csproj.AssemblyReference.cache
+C:\GenevaCode\CSC 102\powersinterface\powersinterface\obj\Debug\powersinterface.csproj.CoreCompileInputs.cache
+C:\GenevaCode\CSC 102\powersinterface\powersinterface\obj\Debug\powersinterface.exe
+C:\GenevaCode\CSC 102\powersinterface\powersinterface\obj\Debug\powersinterface.pdb
