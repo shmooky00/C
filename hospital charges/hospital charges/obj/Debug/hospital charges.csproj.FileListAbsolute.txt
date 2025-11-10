@@ -1,0 +1,10 @@
+C:\Users\casse\Desktop\Projects\hospital charges\hospital charges\bin\Debug\hospital charges.exe.config
+C:\Users\casse\Desktop\Projects\hospital charges\hospital charges\bin\Debug\hospital charges.exe
+C:\Users\casse\Desktop\Projects\hospital charges\hospital charges\bin\Debug\hospital charges.pdb
+C:\Users\casse\Desktop\Projects\hospital charges\hospital charges\obj\Debug\hospital charges.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\Projects\hospital charges\hospital charges\obj\Debug\hospital_charges.Form1.resources
+C:\Users\casse\Desktop\Projects\hospital charges\hospital charges\obj\Debug\hospital_charges.Properties.Resources.resources
+C:\Users\casse\Desktop\Projects\hospital charges\hospital charges\obj\Debug\hospital charges.csproj.GenerateResource.cache
+C:\Users\casse\Desktop\Projects\hospital charges\hospital charges\obj\Debug\hospital charges.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\Projects\hospital charges\hospital charges\obj\Debug\hospital charges.exe
+C:\Users\casse\Desktop\Projects\hospital charges\hospital charges\obj\Debug\hospital charges.pdb

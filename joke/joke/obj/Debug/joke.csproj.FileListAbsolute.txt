@@ -1,0 +1,10 @@
+C:\Users\casse\Desktop\Projects\joke\joke\bin\Debug\joke.exe.config
+C:\Users\casse\Desktop\Projects\joke\joke\bin\Debug\joke.exe
+C:\Users\casse\Desktop\Projects\joke\joke\bin\Debug\joke.pdb
+C:\Users\casse\Desktop\Projects\joke\joke\obj\Debug\joke.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\Projects\joke\joke\obj\Debug\joke.jokepunchline.resources
+C:\Users\casse\Desktop\Projects\joke\joke\obj\Debug\joke.Properties.Resources.resources
+C:\Users\casse\Desktop\Projects\joke\joke\obj\Debug\joke.csproj.GenerateResource.cache
+C:\Users\casse\Desktop\Projects\joke\joke\obj\Debug\joke.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\Projects\joke\joke\obj\Debug\joke.exe
+C:\Users\casse\Desktop\Projects\joke\joke\obj\Debug\joke.pdb
