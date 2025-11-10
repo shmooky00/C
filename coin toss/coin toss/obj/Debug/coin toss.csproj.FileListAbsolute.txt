@@ -1,0 +1,10 @@
+C:\Users\casse\Desktop\Projects\coin toss\coin toss\bin\Debug\coin toss.exe.config
+C:\Users\casse\Desktop\Projects\coin toss\coin toss\bin\Debug\coin toss.exe
+C:\Users\casse\Desktop\Projects\coin toss\coin toss\bin\Debug\coin toss.pdb
+C:\Users\casse\Desktop\Projects\coin toss\coin toss\obj\Debug\coin toss.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\Projects\coin toss\coin toss\obj\Debug\coin_toss.Form1.resources
+C:\Users\casse\Desktop\Projects\coin toss\coin toss\obj\Debug\coin_toss.Properties.Resources.resources
+C:\Users\casse\Desktop\Projects\coin toss\coin toss\obj\Debug\coin toss.csproj.GenerateResource.cache
+C:\Users\casse\Desktop\Projects\coin toss\coin toss\obj\Debug\coin toss.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\Projects\coin toss\coin toss\obj\Debug\coin toss.exe
+C:\Users\casse\Desktop\Projects\coin toss\coin toss\obj\Debug\coin toss.pdb

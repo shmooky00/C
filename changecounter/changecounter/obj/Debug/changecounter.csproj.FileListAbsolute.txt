@@ -1,0 +1,10 @@
+C:\Users\casse\Desktop\Projects\changecounter\changecounter\bin\Debug\changecounter.exe.config
+C:\Users\casse\Desktop\Projects\changecounter\changecounter\bin\Debug\changecounter.exe
+C:\Users\casse\Desktop\Projects\changecounter\changecounter\bin\Debug\changecounter.pdb
+C:\Users\casse\Desktop\Projects\changecounter\changecounter\obj\Debug\changecounter.csproj.AssemblyReference.cache
+C:\Users\casse\Desktop\Projects\changecounter\changecounter\obj\Debug\changecounter.Form1.resources
+C:\Users\casse\Desktop\Projects\changecounter\changecounter\obj\Debug\changecounter.Properties.Resources.resources
+C:\Users\casse\Desktop\Projects\changecounter\changecounter\obj\Debug\changecounter.csproj.GenerateResource.cache
+C:\Users\casse\Desktop\Projects\changecounter\changecounter\obj\Debug\changecounter.csproj.CoreCompileInputs.cache
+C:\Users\casse\Desktop\Projects\changecounter\changecounter\obj\Debug\changecounter.exe
+C:\Users\casse\Desktop\Projects\changecounter\changecounter\obj\Debug\changecounter.pdb
